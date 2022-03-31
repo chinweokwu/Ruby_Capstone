@@ -39,8 +39,8 @@ GEM
       concurrent-ruby (~> 1.0)
     minitest (5.14.1)
     multipart-post (2.1.1)
-    nio4r (2.5.2)
-    puma (4.3.5)
+    nio4r (2.5.8)
+    puma (4.3.12)
       nio4r (~> 2.0)
     slack-ruby-bot (0.15.0)
       hashie
@@ -62,6 +62,7 @@ GEM
 
 PLATFORMS
   x86-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   celluloid-io
